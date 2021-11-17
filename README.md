@@ -33,6 +33,7 @@ Logistic Regression Classifier  used to classify the clients.
 
 The entire training dataset of records was split into 75/25 train vs. testing and all scores reported below were calculated.
 The official metric was classification rate (accuracy); however, class weights were included to improve performance against F1 score.
+![image](https://user-images.githubusercontent.com/93068310/142160094-b528092c-0d0a-474d-bc82-ea598f475f5a.png)
 
 i.Accuracy : 89%
 

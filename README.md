@@ -3,7 +3,7 @@
 ### Abstract :
 
 
-Companies build many marketing  campaigns  to increase subscribed persons. Many companies work on analyzing the market before starting campaigns, and the prediction of subscriptions size and classify of the audience are considered as the basic points in their work. Machine Learning algorithms   have shown remarkable performance on several classify and prediction  tasks. In this project, we cleaned  and processed the dataset then studied  one  of supervised machine learning algorithm : Logistic Regression to build the models to predict and  anticipate the client’s cases in terms of whether he will subscribe to a deposit or not based on his /her information, and finally, will test the model accuracy.
+Companies build many marketing  campaigns  to increase subscribed persons. Many companies work on analyzing the market before starting campaigns, and the prediction of subscriptions size and classify of the audience are considered as the basic points in their work. Machine Learning algorithms   have shown remarkable performance on several classify and prediction  tasks. In this project, we cleaned  and processed the dataset then studied  one  of supervised machine learning algorithm : Logistic Regression, Random Forest and Naive Bayes classifiers to build the models to predict and  anticipate the client’s cases in terms of whether he will subscribe to a deposit or not based on his /her information, and finally, will test the model accuracy.
 ### Design :
 
 
@@ -22,12 +22,12 @@ ii.Applied Principal component analysis (PCA) is a technique for reducing the di
 
 iii.Split Data set : Training and Testing.
 
-iv.Checking Missing Values.
+iv.Checking Missing Values
 
 ### Models:
 
 
-Logistic Regression Classifier  used to classify the clients.
+Logistic Regression Classifier, Random Forest and Naive Bayes classifiers  used to classify the clients.
 ### Model Evaluation and Selection:
 
 
@@ -36,6 +36,17 @@ The official metric was classification rate (accuracy); however, class weights w
 ![image](https://user-images.githubusercontent.com/93068310/142160094-b528092c-0d0a-474d-bc82-ea598f475f5a.png)
 
 i.Accuracy : 89%
+### Naive Bayes Model:
+
+![image](https://user-images.githubusercontent.com/93068310/142246045-48082652-f768-4d01-a3fd-528579144923.png)
+
+### Random Forest Classifier:
+
+![image](https://user-images.githubusercontent.com/93068310/142246217-3838c79b-cbe4-449c-a00c-718ae366d3f7.png)
+
+
+
+
 
 ### Tools :
 i.Scikit-learn for modeling.

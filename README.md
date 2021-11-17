@@ -56,3 +56,6 @@ ii.Matplotlib and Seaborn for plotting and visualizations.
 iii.Jupyter Notebook to write code.
 
 iv.Numpy and Pandas for data manipulation.
+
+### Communication
+The slides are provided [here](https://github.com/Maram13/Bank-Marketing/blob/main/BANK%20MARKETING%20presentation.pptx)

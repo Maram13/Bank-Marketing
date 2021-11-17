@@ -35,8 +35,12 @@ The entire training dataset of records was split into 75/25 train vs. testing an
 The official metric was classification rate (accuracy); however, class weights were included to improve performance against F1 score.
 
 i.Accuracy : 89%
-Tools :
+
+### Tools :
 i.Scikit-learn for modeling.
+
 ii.Matplotlib and Seaborn for plotting and visualizations.
+
 iii.Jupyter Notebook to write code.
+
 iv.Numpy and Pandas for data manipulation.
